@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 170 150"
+   version="1.1"
+   id="svg29"
+   sodipodi:docname="WEM_Logo-Icon.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata33">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="954"
+     inkscape:window-height="1023"
+     id="namedview31"
+     showgrid="false"
+     inkscape:zoom="2.81"
+     inkscape:cx="70.120448"
+     inkscape:cy="63.508158"
+     inkscape:window-x="960"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="Elements" />
+  <defs
+     id="defs12">
+    <style
+       id="style10">.cls-1{fill:#0f6685;}.cls-2{fill:#fff;}.cls-3{fill:#d9423d;}</style>
+  </defs>
+  <title
+     id="title14">WEM_Logo-Icon</title>
+  <g
+     id="Elements">
+    <rect
+       class="cls-1"
+       x="12"
+       y="12"
+       width="57.73"
+       height="57.73"
+       rx="6.81"
+       ry="6.81"
+       id="rect16" />
+    <path
+       class="cls-2"
+       d="M29.64,58.13,28.58,42.74H32l.18,10.94h.17L37,42.74h2.66l.89,10.94h.17l4.09-10.94h3.43l-6.5,15.39H38.64L37.59,48h-.15L32.83,58.13Z"
+       id="path18" />
+    <rect
+       class="cls-1"
+       x="81.27"
+       y="12"
+       width="57.73"
+       height="57.73"
+       rx="6.81"
+       ry="6.81"
+       id="rect20" />
+    <path
+       class="cls-2"
+       d="M107.64,58.13h-10l2.71-15.39h10l-.47,2.77h-6.71l-.65,3.55h6.34l-.43,2.54h-6.34l-.7,3.75h6.74Z"
+       id="path22" />
+    <rect
+       class="cls-3"
+       x="98.59"
+       y="81.27"
+       width="57.73"
+       height="57.73"
+       rx="6.81"
+       ry="6.81"
+       id="rect24"
+       style="fill:#008000" />
+    <path
+       class="cls-2"
+       d="M123,112c3.91,0,6,2.48,6,6.06a10.51,10.51,0,0,1-.1,1.5c0,.25-.23,1.33-.28,1.57-.81,3.9-3.73,6.27-8.37,6.27H115L117.67,112Zm-4.33,12.62h1.35c2.67,0,4.72-1.15,5.32-3.83,0-.19.24-1.16.26-1.4a11.1,11.1,0,0,0,.07-1.17c0-2.45-1.52-3.44-3.74-3.44h-1.49Z"
+       id="path26"
+       style="fill:#008000" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot41"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;"><flowRegion
+         id="flowRegion43"
+         style="fill:#ffffff;"><rect
+           id="rect45"
+           width="17.80349"
+           height="25.038122"
+           x="115.06213"
+           y="112.06535"
+           style="fill:#ffffff;" /></flowRegion><flowPara
+         id="flowPara47">A</flowPara></flowRoot>    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.46336937px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.89430708"
+       x="117.45455"
+       y="122.56825"
+       id="text51"
+       transform="scale(0.96721369,1.0338977)"><tspan
+         sodipodi:role="line"
+         id="tspan49"
+         x="117.45455"
+         y="122.56825"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20.27095985px;line-height:0.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic';fill:#ffffff;stroke-width:0.89430708">A</tspan></text>
+  </g>
+</svg>

@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 570 150"
+   version="1.1"
+   id="svg185"
+   sodipodi:docname="WEM_Logo-Complete.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata189">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="954"
+     inkscape:window-height="1023"
+     id="namedview187"
+     showgrid="false"
+     inkscape:zoom="1.3754386"
+     inkscape:cx="285"
+     inkscape:cy="75"
+     inkscape:window-x="960"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="Elements" />
+  <defs
+     id="defs120">
+    <style
+       id="style118">.cls-1{fill:#0f6685;}.cls-2{fill:#fff;}.cls-3{fill:#d9423d;}</style>
+  </defs>
+  <title
+     id="title122">WEM_Logo-Complete</title>
+  <g
+     id="Elements">
+    <rect
+       class="cls-1"
+       x="14"
+       y="15"
+       width="55.07"
+       height="55.07"
+       rx="6.81"
+       ry="6.81"
+       id="rect124" />
+    <path
+       class="cls-2"
+       d="M30.83,59l-1-14.68h3.25l.17,10.43h.16l4.48-10.43h2.54l.85,10.43h.16l3.91-10.43H48.6L42.4,59h-3l-1-9.67h-.14L33.87,59Z"
+       id="path126" />
+    <rect
+       class="cls-1"
+       x="80.08"
+       y="15"
+       width="55.07"
+       height="55.07"
+       rx="6.81"
+       ry="6.81"
+       id="rect128" />
+    <path
+       class="cls-2"
+       d="M105.24,59H95.69l2.58-14.68h9.53L107.35,47H101l-.62,3.39h6L106,52.77h-6l-.67,3.58h6.43Z"
+       id="path130" />
+    <rect
+       class="cls-3"
+       x="96.6"
+       y="81.08"
+       width="55.07"
+       height="55.07"
+       rx="6.81"
+       ry="6.81"
+       id="rect132" />
+    <path
+       class="cls-2"
+       d="M119.92,110.4c3.73,0,5.76,2.37,5.76,5.78a10,10,0,0,1-.1,1.43c0,.24-.22,1.27-.27,1.5-.77,3.72-3.56,6-8,6h-5.11l2.58-14.68Zm-4.13,12h1.29c2.55,0,4.51-1.1,5.08-3.66,0-.18.23-1.11.25-1.33a10.55,10.55,0,0,0,.06-1.12c0-2.33-1.45-3.28-3.57-3.28h-1.42Z"
+       id="path134" />
+    <path
+       class="cls-1"
+       d="M185.82,25.8h4.93l8.15,24.68L206.8,25.9h6.11L201.35,59.29h-5l-8.15-23.82L180,59.29h-5L163.46,25.9h6.3l7.91,24.58Z"
+       id="path136" />
+    <path
+       class="cls-1"
+       d="M226.09,54.93a9.08,9.08,0,0,0,6.77-3l3.36,3A12.65,12.65,0,0,1,226,59.62c-7.25,0-12.84-5.26-12.84-13,0-7.2,5.07-13.07,12.22-13.07,8,0,12,6.25,12,13.5,0,.52,0,1-.09,1.56H218.89C219.55,52.66,222.39,54.93,226.09,54.93Zm5.59-10.14c-.38-3.69-2.56-6.58-6.35-6.58-3.5,0-6,2.7-6.49,6.58Z"
+       id="path138" />
+    <path
+       class="cls-1"
+       d="M256,59.57a10.19,10.19,0,0,1-8.48-4.4v3.88h-5.73V24.48h5.73V38.21A10,10,0,0,1,256,33.52c5.92,0,11.65,4.69,11.65,13S261.94,59.57,256,59.57ZM254.65,38.5c-3.88,0-7.29,3.17-7.29,8.05s3.41,8.05,7.29,8.05,7.15-3.08,7.15-8.05S258.53,38.5,254.65,38.5Z"
+       id="path140" />
+    <path
+       class="cls-1"
+       d="M311.05,31.11H292.29v8.62h16.62v5.21H292.29v8.9h19v5.21H286.47V25.9h24.58Z"
+       id="path142" />
+    <path
+       class="cls-1"
+       d="M321.92,59.05h-5.73V34h5.73v3.88a9,9,0,0,1,7.81-4.4c5.64,0,8.9,3.79,8.9,9.61V59.05H332.9V44.84c0-3.88-1.94-6.11-5.35-6.11s-5.64,2.32-5.64,6.21Z"
+       id="path144" />
+    <path
+       class="cls-1"
+       d="M355.2,66.72a21.54,21.54,0,0,1-11.18-3l2.13-4.31a16.28,16.28,0,0,0,8.9,2.65c5.12,0,7.91-2.65,7.91-7.67V52.47c-2.08,2.7-4.69,4.59-8.81,4.59-5.87,0-11.37-4.31-11.37-11.75s5.54-11.79,11.37-11.79a10.79,10.79,0,0,1,8.76,4.26V34h5.73V53.94C368.65,62.79,363.82,66.72,355.2,66.72Zm.47-28.37a6.94,6.94,0,1,0,0,13.88c4,0,7.34-2.79,7.34-6.92S359.66,38.35,355.68,38.35Z"
+       id="path146" />
+    <path
+       class="cls-1"
+       d="M374.38,30.21V24.76h6.16v5.45Zm.24,28.84V34h5.73v25Z"
+       id="path148" />
+    <path
+       class="cls-1"
+       d="M392,59.05h-5.73V34H392v3.88a9,9,0,0,1,7.81-4.4c5.64,0,8.9,3.79,8.9,9.61V59.05H403V44.84c0-3.88-1.94-6.11-5.35-6.11S392,41.05,392,44.94Z"
+       id="path150" />
+    <path
+       class="cls-1"
+       d="M425.83,54.93a9.08,9.08,0,0,0,6.77-3l3.36,3a12.65,12.65,0,0,1-10.23,4.69c-7.25,0-12.84-5.26-12.84-13,0-7.2,5.07-13.07,12.22-13.07,8,0,12,6.25,12,13.5,0,.52,0,1-.09,1.56H418.63C419.29,52.66,422.13,54.93,425.83,54.93Zm5.59-10.14c-.38-3.69-2.56-6.58-6.35-6.58-3.5,0-6,2.7-6.49,6.58Z"
+       id="path152" />
+    <path
+       class="cls-1"
+       d="M452.95,54.93a9.09,9.09,0,0,0,6.77-3l3.36,3a12.65,12.65,0,0,1-10.23,4.69c-7.25,0-12.83-5.26-12.83-13,0-7.2,5.07-13.07,12.22-13.07,8,0,12,6.25,12,13.5,0,.52,0,1-.09,1.56H445.75C446.41,52.66,449.25,54.93,452.95,54.93Zm5.59-10.14c-.38-3.69-2.56-6.58-6.35-6.58-3.5,0-6,2.7-6.49,6.58Z"
+       id="path154" />
+    <path
+       class="cls-1"
+       d="M474.35,59.05h-5.73V34h5.73v5.64c1.56-3.74,4.45-6.3,8.86-6.11v6.06h-.33c-5,0-8.53,3.27-8.53,9.9Z"
+       id="path156" />
+    <path
+       class="cls-1"
+       d="M486.29,30.21V24.76h6.16v5.45Zm.24,28.84V34h5.73v25Z"
+       id="path158" />
+    <path
+       class="cls-1"
+       d="M503.88,59.05h-5.73V34h5.73v3.88a9,9,0,0,1,7.82-4.4c5.64,0,8.9,3.79,8.9,9.61V59.05h-5.73V44.84c0-3.88-1.94-6.11-5.35-6.11s-5.64,2.32-5.64,6.21Z"
+       id="path160" />
+    <path
+       class="cls-1"
+       d="M537.17,66.72a21.54,21.54,0,0,1-11.18-3l2.13-4.31a16.28,16.28,0,0,0,8.9,2.65c5.12,0,7.91-2.65,7.91-7.67V52.47c-2.08,2.7-4.69,4.59-8.81,4.59-5.87,0-11.37-4.31-11.37-11.75s5.54-11.79,11.37-11.79a10.79,10.79,0,0,1,8.76,4.26V34h5.73V53.94C550.62,62.79,545.79,66.72,537.17,66.72Zm.47-28.37a6.94,6.94,0,1,0,0,13.88c4,0,7.34-2.79,7.34-6.92S541.63,38.35,537.65,38.35Z"
+       id="path162" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.66666794px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       x="180.30612"
+       y="123.09949"
+       id="text231"><tspan
+         sodipodi:role="line"
+         id="tspan229"
+         x="180.30612"
+         y="123.09949"
+         style="font-size:42.66666794px;fill:#008000">Aachen</tspan></text>
+  </g>
+  <rect
+     class="cls-1"
+     x="9.630002"
+     y="12.999998"
+     width="57.73"
+     height="57.73"
+     rx="6.8099999"
+     ry="6.8099999"
+     id="rect16"
+     style="fill:#0f6685" />
+  <path
+     inkscape:connector-curvature="0"
+     class="cls-2"
+     d="m 27.270002,59.13 -1.06,-15.39 h 3.42 l 0.18,10.94 h 0.17 l 4.65,-10.94 h 2.66 l 0.89,10.94 h 0.17 l 4.09,-10.94 h 3.43 l -6.5,15.39 h -3.1 l -1.05,-10.13 h -0.15 l -4.61,10.13 z"
+     id="path18"
+     style="fill:#ffffff" />
+  <rect
+     class="cls-1"
+     x="78.900002"
+     y="12.999998"
+     width="57.73"
+     height="57.73"
+     rx="6.8099999"
+     ry="6.8099999"
+     id="rect20"
+     style="fill:#0f6685" />
+  <path
+     inkscape:connector-curvature="0"
+     class="cls-2"
+     d="m 105.27,59.13 h -10 l 2.71,-15.39 h 10 l -0.47,2.77 h -6.71 l -0.65,3.55 h 6.34 l -0.43,2.54 h -6.34 l -0.7,3.75 h 6.74 z"
+     id="path22"
+     style="fill:#ffffff" />
+  <rect
+     class="cls-3"
+     x="93.940002"
+     y="81.080002"
+     width="57.73"
+     height="57.73"
+     rx="6.8099999"
+     ry="6.8099999"
+     id="rect24"
+     style="fill:#008000" />
+  <path
+     inkscape:connector-curvature="0"
+     class="cls-2"
+     d="m 120.63,113 c 3.91,0 6,2.48 6,6.06 a 10.51,10.51 0 0 1 -0.1,1.5 c 0,0.25 -0.23,1.33 -0.28,1.57 -0.81,3.9 -3.73,6.27 -8.37,6.27 h -5.25 L 115.3,113 Z m -4.33,12.62 h 1.35 c 2.67,0 4.72,-1.15 5.32,-3.83 0,-0.19 0.24,-1.16 0.26,-1.4 a 11.1,11.1 0 0 0 0.07,-1.17 c 0,-2.45 -1.52,-3.44 -3.74,-3.44 h -1.49 z"
+     id="path26"
+     style="fill:#008000" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.46336937px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.89430708"
+     x="115.00422"
+     y="123.53548"
+     id="text51"
+     transform="scale(0.96721369,1.0338977)"><tspan
+       sodipodi:role="line"
+       id="tspan49"
+       x="115.00422"
+       y="123.53548"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20.27095985px;line-height:0.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic';fill:#ffffff;stroke-width:0.89430708">A</tspan></text>
+  <flowRoot
+     xml:space="preserve"
+     id="flowRoot217"
+     style="fill:black;fill-opacity:1;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:24px;line-height:1.25;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:'sans-serif, Normal';font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal"><flowRegion
+       id="flowRegion219"><rect
+         id="rect221"
+         width="125.77806"
+         height="29.808674"
+         x="212.29591"
+         y="118.73724" /></flowRegion><flowPara
+       id="flowPara223"></flowPara></flowRoot>  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+     x="222.47449"
+     y="114.375"
+     id="text227"><tspan
+       sodipodi:role="line"
+       id="tspan225"
+       x="222.47449"
+       y="135.60938"></tspan></text>
+</svg>
