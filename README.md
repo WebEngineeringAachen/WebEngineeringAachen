@@ -22,7 +22,8 @@ All our assets can be found in the [*Assets*-Folder](./Assets). This includes:
 - a Keynote template
 - a DINA4 template
 
-All assets were created by [Fabian Huettenhoff](https://twitter.com/zuqbu). A **big** Thank you for this!
+All assets were created by [Fabian Huettenhoff](https://twitter.com/zuqbu).
+A **big** Thank you for this!
 
 ## Code of Conduct
 
@@ -35,15 +36,19 @@ The raffle script code was written by [@SHyx0rmZ](https://github.com/SHyx0rmZ).
 The *Web Engineering Aachen* is available at several places:
 
 * [Web Engineering Aachen on Meetup](https://www.meetup.com/Web-Engineering-Aachen/)
-* [@WebEngDUS on twitter](https://twitter.com/WebAachenUG)
-* [WebEngDUS on GitHub](https://github.com/WebEngineeringAachen)
+* [@WebAachenUG on twitter](https://twitter.com/WebAachenUG)
+* [WebEngineeringAachen on GitHub](https://github.com/WebEngineeringAachen)
 
 ## Where can I get more information or provide feedback?
 
-If you want to get more information or you have a specific question, feel free to [open an issue in our GitHub issue tracker](https://github.com/WebEngDUS/WebEngDUS/issues/new).
+If you want to get more information or you have a specific question,
+feel free to
+[open an issue in our GitHub issue tracker](https://github.com/WebEngineeringAachen/WebEngineeringAachen/issues/new).
 We will be happy to answer it.
 
-If you want to provide us feedback regarding this content, the way we run the meetup or anything else, [opening an issue at our GitHub repository](https://github.com/WebEngineeringAachen/WebEngineeringAachen/issues) is also the way to go.
+If you want to provide us feedback regarding this content,
+the way we run the meetup or anything else,
+[opening an issue at our GitHub repository](https://github.com/WebEngineeringAachen/WebEngineeringAachen/issues) is also the way to go.
 
 ## Where is the original place of this content?
 

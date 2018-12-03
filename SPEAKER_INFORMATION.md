@@ -5,7 +5,7 @@ Below you will find a template.
 
 > Hey all,
 >
-> First of all: Thanks a lot that you will be a speaker at the WebEngDUS at `<DAY>`, `<DATE>`  2018 [1]. Such events would not be possible without you.
+> First of all: Thanks a lot that you will be a speaker at the Web Engineering Aachen at `<DAY>`, `<DATE>`  2018 [1]. Such events would not be possible without you.
 > Up to now, `<NUMBER-OF-PEOPLE>` people have registered.
 >
 > Here is a bit of additional information:
@@ -19,7 +19,7 @@ Below you will find a template.
 > * The meetup takes place at `<LOCATION>`
 > * In case of contact, feel free to contact us via
 >    - This email (`<EMAIL-ADDRESSES-OF-ORGANIZERS>`)
->    - Twitter (@WebEngDUS)
+>    - Twitter (@WebAachenUG)
 >    - Mobile Phone: `<MOBILE-NUMBER-OF-ORGANIZERS>`
 
 > If you have any questions left, just ping us.

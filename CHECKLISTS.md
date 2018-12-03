@@ -1,4 +1,4 @@
-# Checklists for running WebEngDUS
+# Checklists for running WebEngineeringAachen
 
 ## Before the meetup
 
