@@ -22,7 +22,7 @@ All our assets can be found in the [*Assets*-Folder](./Assets). This includes:
 - a Keynote template
 - a DINA4 template
 
-All assets were created by [Fabian Huettenhoff](https://twitter.com/zuqbu).
+All assets were originally created by [Fabian Huettenhoff](https://twitter.com/zuqbu).
 A **big** Thank you for this!
 
 ## Code of Conduct
