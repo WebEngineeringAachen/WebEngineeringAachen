@@ -2,7 +2,7 @@
 
 ## 1. Need Help?
 
-Please tweet/DM us at [@WebEngDus](https://twitter.com/WebEngDus), send us a message via [Meetup](https://www.meetup.com/Web-Engineering-Duesseldorf/)  or talk to us directly during the [events](https://www.meetup.com/Web-Engineering-Duesseldorf/).
+Please tweet/DM us at [@WebEngAC](https://twitter.com/WebEngAC), send us a message via [Meetup](https://www.meetup.com/Web-Engineering-Aachen/)  or talk to us directly during the [events](https://www.meetup.com/Web-Engineering-Duesseldorf/).
 
 ## 2. Principles
 
