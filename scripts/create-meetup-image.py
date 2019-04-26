@@ -39,6 +39,6 @@ for speaker in speakers:
 meetupImage = Image.open(meetupLogoPath)
 size = 320, 80
 meetupImage = meetupImage.resize(size)
-img.paste(meetupImage, (850, fullHeight - 90 ))
+img.paste(meetupImage, (850, fullHeight - 90 ), meetupImage)
 
 img.save('web-engineering-aachen-11-06-2019.png')
