@@ -14,7 +14,7 @@ $placeholders = array(
     '<LINK-OF-MEETUP>'     => ''
 );
 
-$originContent = file_get_contents(__DIR__. '/../SPEAKER_INFORMATION.md');
+$originContent = file_get_contents(__DIR__ . '/../SPEAKER_INFORMATION.md');
 
 $mailText = $originContent;
     $mailText = strtr($mailText, $placeholders);
