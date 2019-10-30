@@ -36,7 +36,7 @@ The raffle script code was written by [@SHyx0rmZ](https://github.com/SHyx0rmZ).
 The *Web Engineering Aachen* is available at several places:
 
 * [Web Engineering Aachen on Meetup](https://www.meetup.com/Web-Engineering-Aachen/)
-* [@WebAachenUG on twitter](https://twitter.com/WebAachenUG)
+* [@WebEngAc on twitter](https://twitter.com/WebEngAc)
 * [WebEngineeringAachen on GitHub](https://github.com/WebEngineeringAachen)
 
 ## Where can I get more information or provide feedback?
